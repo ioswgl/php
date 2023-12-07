@@ -6,8 +6,8 @@
         <title>Document</title>
     </head>
     <body>
-        <?php
-            print "Bienvenidos al curso de PHP <br>";
+        <?php // Código PHP
+            print "Bienvenidos al curso de PHP <br>"; 
             print "Hola alumnos <br>";
             print "Hasta el próximo video";
         ?>
