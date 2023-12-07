@@ -8,10 +8,18 @@
         <title>Document</title>
     </head>
     <body>
-        <?php // Código PHP
-            print "Bienvenidos al curso de PHP <br>"; 
+        <?php 
+            print "Bienvenidos al curso de PHP <br>"; // Imprime y hace un salto de línea (<br>)
             print "Hola alumnos <br>";
             print "Hasta el próximo video";
+            /*
+               asdfasdfasdfadsfasdfasdfasdf
+               asdfasdfasdfasdfadfasdfasdfas
+               asdfasdfasdfasdfasdfasd
+               adfasdfasdfasdfasdfasdfasdfasd
+               asdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+               asdfasdfasdfasdfasdfasdf 
+            */ 
         ?>
     </body>
 </html>
