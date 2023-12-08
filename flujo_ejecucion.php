@@ -9,7 +9,7 @@
         <?php
             echo "Este es el primer mensaje <br>";
 
-            require("proporciona_datossss.php");
+            require("proporciona_datos.php");
 
             echo "Este es el segundo mensaje <br>";
 
