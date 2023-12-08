@@ -1,5 +1,5 @@
 <!--Curso de PHP-->
-<!--Vídeos consumidos: 1, 2, 3, 4, 5-->
+<!--Vídeos consumidos: 1, 2, 3, 4, 5, 6-->
 <!DOCTYPE html>
 <html lang="en">
     <head>
