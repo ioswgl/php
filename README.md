@@ -1,2 +1,2 @@
-# php
-I am learn php
+# PHP
+## Aprendiendo PHP con Píldoras Informáticas
