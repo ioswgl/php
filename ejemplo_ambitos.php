@@ -7,7 +7,15 @@
     </head>
     <body>
         <?php
+            $nombre="Luis";
             
+            function dameNombre(){
+                $nombre="Maria";
+            }
+
+            dameNombre();
+
+            echo $nombre;
         ?>
     </body>
 </html>
