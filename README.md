@@ -26,3 +26,14 @@ Comparar valores de tipo string teniendo en cuenta si está comparando mayúscul
 Comparación de string segura a nivel binario e insensible a mayúsculas y minúsculas.
 
 Compara valores de tipo string ignorando si están en mayúsculas y minúsculas. Esta función devuelve un cero si los valores string coinciden y 1 si los valores strings no coinciden.
+
+### Video 8: Operadores de comparación
+
+==  Verdadero si las dos variables son iguales.
+=== Verdadero si las dos variables son iguales y del mismo tipo.
+!=  Verdadero si las dos variables no son iguales.
+<>  Verdadero si las dos variables no son iguales y además no son del mismo tipo.
+<   Verdadero si el valor de $var1 es menor que $var2.
+>   Verdadero si el valor de $var1 es mayor que $var2.
+<=  Verdadero si $var1 es menor o igual que $var2.
+>=  Verdadero si $var1 es mayor o igual que $var2.
