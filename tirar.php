@@ -9,12 +9,11 @@
         <?php
             $variable1=8; // Dato de tipo entero.
             $variable2="8"; // Dato de tipo string.
-            // Diferencia entre las variables 1 y 2 es el tipo de datos que almacenan en su interior
             $variable3="Luis";
-            if($variable1==$variable2){
-                echo "Son iguales";
+            if($variable1<>$variable2){
+                echo "Las variables no son iguales y no son del mismo tipo";
             }else{
-                echo "No son iguales";
+                echo "Las variables son iguales y del mismo tipo";
             };
         ?>
     </body>
