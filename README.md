@@ -27,7 +27,9 @@ Comparación de string segura a nivel binario e insensible a mayúsculas y minú
 
 Compara valores de tipo string ignorando si están en mayúsculas y minúsculas. Esta función devuelve un cero si los valores string coinciden y 1 si los valores strings no coinciden.
 
-### Video 8: Operadores de comparación
+### Video 9: Operadores de comparación
+
+En este vídeo vemos los operadores de comparación en php. Trabajamos con un sencillo ejemplo de formulario para ver los operadores y el resto de conocimientos aprendidos hasta el momento.
 
 ==  Verdadero si las dos variables son iguales.
 === Verdadero si las dos variables son iguales y del mismo tipo.
